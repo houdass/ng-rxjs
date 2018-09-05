@@ -1,5 +1,5 @@
-import {Component, OnInit} from '@angular/core';
-import {Race} from './operators/race';
+import { Component, OnInit } from '@angular/core';
+import { Race } from './operators/race';
 
 @Component({
   selector: 'app-root',
